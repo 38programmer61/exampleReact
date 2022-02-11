@@ -27,7 +27,7 @@ function MainContent(props) {
 
     return (
         <div>
-            <h1>Main Content</h1>
+            <h1>Main Content 2</h1>
         </div>
     )
 }
